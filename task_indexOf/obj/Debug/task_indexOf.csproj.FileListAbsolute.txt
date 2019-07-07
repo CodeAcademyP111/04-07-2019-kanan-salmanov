@@ -1,0 +1,7 @@
+C:\Users\Fujitsu\source\repos\task_indexOf\task_indexOf\bin\Debug\task_indexOf.exe.config
+C:\Users\Fujitsu\source\repos\task_indexOf\task_indexOf\bin\Debug\task_indexOf.exe
+C:\Users\Fujitsu\source\repos\task_indexOf\task_indexOf\bin\Debug\task_indexOf.pdb
+C:\Users\Fujitsu\source\repos\task_indexOf\task_indexOf\obj\Debug\task_indexOf.csprojAssemblyReference.cache
+C:\Users\Fujitsu\source\repos\task_indexOf\task_indexOf\obj\Debug\task_indexOf.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\source\repos\task_indexOf\task_indexOf\obj\Debug\task_indexOf.exe
+C:\Users\Fujitsu\source\repos\task_indexOf\task_indexOf\obj\Debug\task_indexOf.pdb
